@@ -48,9 +48,6 @@
     "utf-8-validate": "~4.0.0"
   },
   "devDependencies": {
-    "@angular/animations": ">=6.0.0 <9 || ^9.0.0-0",
-    "@angular/compiler-cli": ">=6.0.0 <9 || ^9.0.0-0",
-    "@angular/platform-server": ">=6.0.0 <9 || ^9.0.0-0",
     "@types/inquirer": "^0.0.44",
     "@types/jasmine": "^2.5.36",
     "@types/request": "0.0.30",
